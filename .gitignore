@@ -1,0 +1,12 @@
+*
+!.gitignore
+!/config
+!/config/*smp-common.toml
+!/mods
+!/mods/**/*
+!/shaderpacks
+!/shaderpacks/*
+!README.md
+
+# mac
+*.DS_Store
