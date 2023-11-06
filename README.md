@@ -1,5 +1,6 @@
 # みんなでマイクラしよう
-しんにじえもです。僕のマイクラ参加型配信は基本工業MODを入れた工業サーバーになります。
+しんにじえもです。僕のマイクラ参加型配信は基本工業MODを入れた工業サーバーになります。<br>
+サーバーアドレス: mc.bo-yakitarako.dev
 
 なんで、みなさんには当方と同じMODを入れてもらいたいんですよね。MODとconfigの共有方法をお話します。
 
@@ -45,18 +46,28 @@ GitHub Desktopを使うとこんなに便利に！
 ここは何も変えずに`Finish`で良いと思います。
 
 すると`Let's get started!`のスタート画面に移行します。
-![image](https://github.com/bo-yakitarako/minecraft-server-1.20.1/assets/55777096/11ba9686-0c6e-49ea-982c-beb4db491034)
+
+`Let's get started!`|`File`タブ
+--|--
+![image](https://github.com/bo-yakitarako/minecraft-server-1.20.1/assets/55777096/11ba9686-0c6e-49ea-982c-beb4db491034)|![image](https://github.com/bo-yakitarako/minecraft-server-1.20.1/assets/55777096/bff7ac54-3f5f-4f1f-b6ee-982fa8538a8d)
+
 ここでは2個目の`Clone a reopsitory from internet...`を選択します。
+
+もしくは画面上部の`File`から`Clone repository...`でも大丈夫です
 
 GitHub Desktop画面|GitHubのサイトの操作
 --|--
 <img src="https://github.com/bo-yakitarako/minecraft-server-1.20.1/assets/55777096/4dbd707a-3bcc-4e91-b03a-5d8be00fdb78">|<img src="https://github.com/bo-yakitarako/minecraft-server-1.20.1/assets/55777096/80e85061-2ebc-4148-8dd1-01a9da48c477" width="640px">
+
+ダイアログが開くので`URL`のタブを選択します。
 
 - 1個目の入力欄にGitHubサイトのほうの`Code`というボタンをクリックすると出てくるURLを貼ります
   - https://github.com/bo-yakitarako/minecraft-server-1.20.1.git ←これをコピペでもOKです
 - 2個目の入力欄は右の`Choose...`というボタンを押してマインクラフトの**ゲームディレクトリを入れる1個上のフォルダ**を指定します
   - 指定したフォルダの中に`minecraft-server-1.20.1`というフォルダが作成され、その中に`mods`や`config`フォルダが入ります
   - ゲームディレクトリにしようとしたフォルダを選択すると二重でフォルダが形成されてしまうのでご注意！
+
+ 入力が完了したら`Clone`をクリックします。
 
 ![image](https://github.com/bo-yakitarako/minecraft-server-1.20.1/assets/55777096/161efa95-cf0a-4553-9da2-7c019bf54441)
 こんな画面になればOKです🙆
