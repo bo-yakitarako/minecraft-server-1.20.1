@@ -10,7 +10,7 @@
 	#Boolean: true
 	StartMode = true
 	#String: "KEY_M"
-	Key = "KEY_M"
+	Key = "KEY_UNKNOWN"
 	#Integer: 0
 	Limiter = 0
 	#Integer: 0

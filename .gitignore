@@ -2,6 +2,8 @@
 !.gitignore
 !/config
 !/config/*smp-common.toml
+!/config/Mekanism
+!/config/Mekanism/common.toml
 !/mods
 !/mods/**/*
 !/shaderpacks
